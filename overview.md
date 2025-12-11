@@ -225,10 +225,7 @@ Finally, if we were steering the roadmap, I’d make sure the *story* is as soli
 
 ---
 
-If you want, we can:
 
-* Pick **one specific track** (e.g., “design the actual ML-DSA script template set for BSV”) and flesh it out in code / pseudo-Script, or
-* Draft an internal **“BSV PQC Working Group charter + 12-month action plan”** you could literally drop into a tech team meeting.
 
 [1]: https://www.nist.gov/news-events/news/2024/08/nist-releases-first-3-finalized-post-quantum-encryption-standards"NIST Releases First 3 Finalized Post-Quantum Encryption ..."
 [2]: https://kar.kent.ac.uk/110944/1/219Quantum_Advantage_On_Blockchain_Technologies.pdf "QUANTUM ADVANTAGE ON BLOCKCHAIN TECHNOLOGIES"
