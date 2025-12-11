@@ -1,10 +1,5 @@
-I’d picture a *10-year, multi-phase plan* with one big theme:
+*10-year, multi-phase plan*:
 
-> **BSV becomes “crypto-agile” at the script level, PQ-default at the wallet level, and eventually PQ-only for *new* value.**
-
-Here’s how I’d map it if we were running the BSV tech roadmap.
-
----
 
 ## 0. Ground rules & threat model (first 6–12 months)
 
