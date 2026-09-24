@@ -84,7 +84,7 @@ Contributions welcome! This project is part of the BSV PQC Working Group initiat
 
 ## License
 
-ISC
+[MIT](LICENSE)
 
 ## Disclaimer
 
